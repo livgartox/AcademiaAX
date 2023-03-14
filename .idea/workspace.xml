@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bd40cba-61fb-4b21-86d8-debc2ad37350" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Abstract/v0/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Abstract/v0/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Abstract/v0/Oso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Abstract/v0/Pato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Abstract/v0/Perro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Abstract/v0/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Alumno/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/CasteoObjetos/v0/Aguila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/CasteoObjetos/v0/AguilaReal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/CasteoObjetos/v0/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/CasteoObjetos/v0/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/CasteoObjetos/v1/Aguila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/CasteoObjetos/v1/AguilaCalva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/CasteoObjetos/v1/AguilaReal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/CasteoObjetos/v1/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/CasteoObjetos/v1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Cliente/V0/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Cliente/V0/Nomina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Cliente/V1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Conexion/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Conexion/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Coordenadas/CoordenadaTrab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Interfaces/Predicado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Interfaces/PredicadoImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Interfaces/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Label/FindinMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Otros/v0/Aguila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Otros/v0/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Otros/v0/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Otros/v1/Aguila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Otros/v1/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Otros/v1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Otros/v2/Aguila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Otros/v2/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Otros/v2/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v0/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v0/Resta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v0/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v1/Operacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v1/Resta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v1/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v2/Multi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v2/Operacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v2/Potencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v2/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v2/Resta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v2/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v3/Multi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v3/Operacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v3/Potencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v3/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v3/Resta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v3/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v4/Multi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v4/Operacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v4/Potencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v4/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v4/Resta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/Calculadora/v4/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/curso/v0/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/curso/v0/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/curso/v0/Oso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/curso/v0/Pato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/curso/v0/Perro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/Polimorfismo/com/curso/v0/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/experimento/AumentarVisibilidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/experimento/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v0/Becario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v0/CompuLinux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v0/CompuWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v0/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v1/Becario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v1/CompuLinux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v1/CompuMac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v1/CompuWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v1/Computadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v1/Inyector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v3/Becario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v3/CompuLinux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v3/CompuMac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v3/CompuWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v3/Computadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v3/Inyector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v3/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v4/Becario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v4/CompuLinux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v4/CompuMac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v4/CompuWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v4/Computadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v4/Inyector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v4/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v5/Becario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v5/CompuLinux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v5/CompuMac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v5/CompuWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v5/Computadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v5/Inyector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v5/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/AcaAX2/src/inyeccionDependencias/v5/TipoCompu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v0/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v0/CompositeSuma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v0/LeafConstante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v0/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v1/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v1/CompositeSuma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v1/LeafConstante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v2/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v2/CompositeResta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v2/CompositeSuma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v2/LeafConstante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v2/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v3/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v3/CompositeDiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v3/CompositeMulti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v3/CompositeResta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v3/CompositeSuma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v3/LeafConstante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Composite/com/curso/v3/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Excepciones/com/v0/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Excepciones/com/v1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Excepciones/com/v2/CeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Excepciones/com/v2/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Excepciones/com/v3/CeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Excepciones/com/v3/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Excepciones/com/v4/CeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Excepciones/com/v4/NegativoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Excepciones/com/v4/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Excepciones/com/v6/Pato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Excepciones/com/v6/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/v0/Básico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/v0/BásicoAnuncios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/v0/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/v0/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/v1/Básico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/v1/BásicoAnuncios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/v1/Inyector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/v1/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/v1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/v1/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v0/Basico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v0/BasicoAnuncios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v0/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v0/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v1/Basico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v1/BasicoAnuncios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v1/Inyector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v1/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v1/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v2/Basico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v2/BasicoAnuncios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v2/Inyector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v2/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v2/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v2/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v3/Basico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v3/BasicoAnuncios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v3/Inyector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v3/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v3/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v3/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v4/Basico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v4/BasicoAnuncios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v4/Estandar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v4/Inyector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v4/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v4/Premium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v4/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/InyeccionDependencias/vfinal/v4/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej1/v0/Básico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej1/v0/BásicoAnuncios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej1/v0/Planes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej1/v0/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej1/v1/Básico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej1/v1/BásicoAnuncios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej1/v1/Planes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej1/v1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej1/v2/Básico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej1/v2/BásicoAnuncios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej1/v2/Planes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej1/v2/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v0/Agua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v0/Aire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v0/Elemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v0/Fuego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v0/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v0/Tierra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v1/Agua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v1/Aire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v1/Elemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v1/Fuego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v1/Tierra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v2/Agua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v2/Aire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v2/Elemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v2/Fuego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v2/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/tareasAX2/src/Polimorfismo/ej2/v2/Tierra.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2MRMkEVOEH5shE9KhZmnL4WeDsn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/AcademiaAX/Clases/tareasAX2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bd40cba-61fb-4b21-86d8-debc2ad37350" name="Changes" comment="" />
+      <created>1677726082959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677726082959</updated>
+    </task>
+    <servers />
+  </component>
+</project>

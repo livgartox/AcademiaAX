@@ -1,0 +1,24 @@
+package inyeccionDependencias.v3;
+
+public class Inyector {
+    static Computadora cw=new CompuWindows("Vista");
+    static Computadora cl=new CompuLinux("Ubuntu 18");
+
+    static Computadora cm=new CompuLinux("MACOS1");
+    static Becario getBecario(String nombre, String tipoComp) {
+        //VARIABLES LOCALES NO SE IN ICIALIZAN
+        Becario b;
+        switch (tipoComp) {
+            case "Windows":
+                b = new Becario(nombre, cw);
+                break;
+            case "Linux":
+                b = new Becario(nombre, cl);
+                break;
+            default:
+                b = new Becario(nombre, cm);
+        }
+        return b;
+    }
+
+}
