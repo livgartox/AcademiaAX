@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <h1 class="text-center">Login</h1>
+    <div class="container d-flex justify-content-center align-items-center">
+        <div class="row bg-warning">
+          <div class="col-md-12 center mx-auto">
+            <form centered id="user-form">
+                <div class="form-group">
+                    <label for="exampleInputName">Name</label>
+                    <input type="text" class="form-control" id="exampleInputName" aria-describedby="nameHelp">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName">Last Name</label>
+                    <input type="text" class="form-control" id="exampleInputLastName" aria-describedby="LastNameHelp">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputDateOfBirth">Fecha de nacimiento</label>
+                    <input type="date" class="form-control" id="exampleInputDateOfBirth" aria-describedby="dateOfBirthHelp">
+                    <small id="dateOfBirthHelp" class="form-text text-muted">Ingresa tu fecha de nacimiento en el formato AAAA-MM-DD.</small>
+                </div>
+
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Email address</label>
+                  <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                  <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                </div>
+                <div class="form-group">
+                  <label for="exampleInputPassword1">Password</label>
+                  <input type="password" class="form-control" id="exampleInputPassword1">
+                </div>
+                <div class="form-group form-check">
+                  <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                  <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                </div>
+                <div class="text-center">
+                    <input class="btn btn-primary" 
+                        type="submit" 
+                        value="Enviar"
+                        />
+                  </div>
+              </form>
+          </div>
+        </div>
+      </div>
+      
+
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+
+    <script src="js/login.js"></script>
+  </body>
+</html>
