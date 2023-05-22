@@ -3,10 +3,12 @@ package com.curso.ecommerce.service;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import com.curso.ecommerce.entity.Producto;
 import com.curso.ecommerce.repository.ProductRepository;
 
+@Service
 public class ProductoServiceImp implements ProductService{
 
 	@Autowired
